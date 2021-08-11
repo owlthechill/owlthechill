@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @owlthechill
-- 👀 I’m interested in Computer Science, Python, C++, SQL
-- 🌱 I’m currently learning SQL, Python
-- 📫 How to reach me: Discord (owlthechill#3266)
+
